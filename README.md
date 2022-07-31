@@ -34,6 +34,9 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 Exploring a dataset is majorly used by Data Scienctist to undesrtand the data better before proceeding in the Data Cleaning Process. I therefore used Power BI Desktop to explore the data by building a visualization Report from the Dataset. Pushed it to PowerBI Service and and import it in the Jupyter Notebook. please note that only the training dataset was explored in this visual because most of the Preprocessing are majorly from the train dataset.
 click to view the Report dashboard https://app.powerbi.com/view?r=eyJrIjoiZDE1MzQyMWQtZWU1ZS00NjM5LWI1MGItNWE2MDgwMGNhZDc3IiwidCI6IjMyNzk2YmUyLTYwZmItNGRhMi04ZDI2LTA2ZTU5MzhlNmU2YiIsImMiOjh9&pageName=ReportSection
 
+a brief JPEG is thus 
+![image](https://user-images.githubusercontent.com/60477717/182039610-2c09c77e-0686-4e91-a231-7ff0ad7fe6f4.png)
+
 # PRERPOCESSING 
 In Power BI, diffrent measures were created to prepare the data for better exploration and visualization
 
