@@ -37,6 +37,9 @@ click to view the Report dashboard https://app.powerbi.com/view?r=eyJrIjoiZDE1Mz
 # PRERPOCESSING 
 In Power BI, diffrent measures were created to prepare the data for better exploration and visualization
 
+<img width="684" alt="NEW_AGE" src="https://user-images.githubusercontent.com/60477717/182038859-ef925b63-2452-4fff-83e0-99b484bacc13.PNG">
+
+
 # MODEL BUILDING
 This is the process in building a Logistic Regression using the whole of the Titanic Dataset (the train and the test dataset).
 Among other Classification models (K-Nearest Neighbor, Select Vector Machine, Random Forest, Decision Tree...) only Logistic Regression gave a better performance of model prediction when only the train dataset was used to predict, hence it was adopted in this model. 
