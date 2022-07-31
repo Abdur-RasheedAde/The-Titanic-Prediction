@@ -37,8 +37,21 @@ click to view the Report dashboard https://app.powerbi.com/view?r=eyJrIjoiZDE1Mz
 # PRERPOCESSING 
 In Power BI, diffrent measures were created to prepare the data for better exploration and visualization
 
+1. The Age was categorised as Infant, Toodler, Teenager, Youth, Adult and Old Age  
 <img width="684" alt="NEW_AGE" src="https://user-images.githubusercontent.com/60477717/182038859-ef925b63-2452-4fff-83e0-99b484bacc13.PNG">
 
+2. Some Ages were missing in the Age Column, there were therefore filled using the Passenger Class Column, details below;
+<img width="683" alt="AGE_BASE_ON CLASS" src="https://user-images.githubusercontent.com/60477717/182039222-9a2b6a42-9148-4673-8ad7-73a135c780d9.PNG">
+
+3. The Class is represented in numbers as 1,2,3 and are mapped to First Class, Second and Third Class repectively using an IF statement
+<img width="690" alt="NEW_CLASS" src="https://user-images.githubusercontent.com/60477717/182039193-a7eb2746-b08b-44e9-9473-19ede109ddaa.PNG">
+
+4. Convert Blank to Zero in the Gender Column 
+<img width="713" alt="NEW_GENDER" src="https://user-images.githubusercontent.com/60477717/182039399-7dec6ac8-b914-4146-9e60-af6b5805e1cd.PNG">
+
+5. Point of Embarked were represented with 'S', 'Q', 'U' and re-categorissed as Southampton, Queenstown and Cherbourg respectively
+<img width="702" alt="POE" src="https://user-images.githubusercontent.com/60477717/182039525-cada68c2-fd74-477e-8713-1f00b8994a54.PNG">
+ 
 
 # MODEL BUILDING
 This is the process in building a Logistic Regression using the whole of the Titanic Dataset (the train and the test dataset).
