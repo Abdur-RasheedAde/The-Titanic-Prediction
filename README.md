@@ -1,5 +1,5 @@
 # The-Titanic-Prediction
-This is Machine Learning Prediction of the Titanic Dataset using Logistic Regression while the Exploratory Data Analysis is done with Power BI.
+This is a Machine Learning Prediction of the Titanic Dataset using Logistic Regression while the Exploratory Data Analysis is done with Power BI.
 
 # THE CHALLENGE
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
