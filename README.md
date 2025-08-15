@@ -1,4 +1,12 @@
-# The-Titanic-Prediction
+# 🧬 The-Titanic-Survival Prediction
+## 🧠 **Author** Abdur-Rasheed Abiodun Adeoye  
+Data Analyst | Data Scientist | Bioinformatics      
+**Date:** August 2025  
+**Domain:** Bioinformatics, Cheminformatics, Drug Discovery  
+**Tools & Libraries:** Python, RDKit, PaDEL-Descriptor, Scikit-learn, Seaborn, LazyPredict, ChEMBL Web Services   
+**Contacts:** - [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)
+              - [GitHub](https://github.com/Abdur-RasheedAde)
+              
 This is a Machine Learning Prediction of the Titanic Dataset using Logistic Regression while the Exploratory Data Analysis is done with Power BI.
 
 # THE CHALLENGE
